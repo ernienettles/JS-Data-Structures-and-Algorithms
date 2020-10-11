@@ -1,3 +1,5 @@
+// Objects are unordered, but hold a key for an associated value which allows fast lookups
+
 let instructor = {
     firstName: "Kelly",
     isInstructor: true,
